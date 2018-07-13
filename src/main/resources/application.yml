@@ -1,0 +1,9 @@
+# DATABASE CONFIG
+#spring:
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/contaazul_db
+#    username: root
+#    password: root
